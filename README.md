@@ -1,4 +1,4 @@
-# script-php-surpass
+# script-php-overtake
 
 A simple PHP algorithm that calculates how many years it will take for Juca to surpass Chico in height.
 
